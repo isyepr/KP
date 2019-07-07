@@ -1,0 +1,15 @@
+.a{
+	font-family: 'Roboto';font-size: 22px;;
+
+}
+.navbar {
+background-image: linear-gradient(120deg, white 20%,#c90000 10%);
+font-family: 'Roboto';font-size: 22px;
+margin-bottom: 30px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
