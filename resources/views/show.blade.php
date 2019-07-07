@@ -1,0 +1,1 @@
+QrCode::generate('{{$spi->LO}}');
